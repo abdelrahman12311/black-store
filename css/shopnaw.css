@@ -1,0 +1,17 @@
+.container{width: 100%;
+width: 820px;
+height: 340px;
+display: flex;
+gap: 10px;
+margin-inline: 50px;}
+.card{min-width: 70px;
+height: 100%;
+border-radius: 30px;
+display: flex;
+align-items: flex-end;
+flex-wrap: 1;
+position: relative;
+transition: flex-grow 05s ease;}
+.card:hover{flex-wrap: 7;}
+.card-content > title{ opacity: 1;
+translate: 0 0 ;}
