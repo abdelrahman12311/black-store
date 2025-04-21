@@ -154,24 +154,4 @@ div.top-img {
     & .fa-solid {
       color: white;
     }
-  
-  }
-  .product-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1em;
-  }
-  
-  .product-card {
-    flex: 1 1 calc(33.333% - 1em);
-  }
-  @media (max-width: 768px) {
-    .product-card {
-      width: 100%;
-      margin-bottom: 1em;
-    }
-  }
-  .container {
-    width: 100%;
-    padding: 1em;
-  }
+
