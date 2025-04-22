@@ -67,16 +67,16 @@ header.flex {
     }
   }
   
-  @media (width < 600px) {
+  @media (width < 00px) {
     header.flex {
       justify-content: center;
-      padding-inline: 0;
+      padding-inline: 1;
   
       .links {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        gap: 1rem;
+        gap: .33rem;
       }
   
       .logo {
