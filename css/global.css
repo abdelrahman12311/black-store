@@ -86,9 +86,9 @@
     margin-inline: auto;
   }
   
-  @media (width < 600px) {
+  @media (width < 0px) {
     main {
-      width: 100%;
+      width: 0%;
     }
   }
   
