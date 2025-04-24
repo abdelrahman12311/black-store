@@ -13,11 +13,10 @@ header.flex {
   
     & .sign-in,
     & .register {
-      border: 1px solid var(--bodyFont);
-      padding: 0.44rem 1rem;
-      border-radius: 55px;
-      font-size: 0.8rem;
-      font-weight: 500;
+        border: 1px solid var(--bodyFont);
+        padding: 0.44rem 1rem;
+        border-radius: 55px;
+        font-size: 0.7rem;
     }
   
     & .sign-in:hover,
