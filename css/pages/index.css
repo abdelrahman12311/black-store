@@ -71,7 +71,8 @@ div.top-img {
       Main contents (products)
   ==================================*/
   main h1.recommended {
-    margin: 2.3rem 0 2rem 2%;
+    margin: 0;
+    font-size: 25px;
   }
   
   @media (width < 0px) {
